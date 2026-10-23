@@ -1,0 +1,36 @@
+EmployeeID,Name,Department,Position,AssignmentHistory,BaseSalary,Allowance,Deduction,LeaveDaysTaken,Education,TrainingCompleted,Accomplishments,Dependents,SALNSubmitted,PerformanceScore,AttendanceDays
+101,Employee101,Operations,Specialist,Specialist at Operations for 2 years,30821,2869,931,13,Master's,4 completed,1 notable projects,5,No,84,20
+102,Employee102,Operations,Supervisor,Supervisor at Operations for 2 years,30574,3042,604,15,PhD,2 completed,1 notable projects,1,No,70,19
+103,Employee103,Operations,Assistant,Assistant at Operations for 3 years,41882,2550,746,2,PhD,4 completed,3 notable projects,3,Yes,77,23
+104,Employee104,Finance,Specialist,Specialist at Finance for 3 years,36879,5504,407,8,PhD,2 completed,5 notable projects,5,No,71,21
+105,Employee105,Customer Service,Manager,Manager at Customer Service for 3 years,45853,4493,576,7,Master's,2 completed,0 notable projects,1,No,81,18
+106,Employee106,Operations,Analyst,Analyst at Operations for 4 years,34326,5021,677,14,PhD,2 completed,1 notable projects,5,No,86,21
+107,Employee107,Operations,Assistant,Assistant at Operations for 2 years,35643,3151,527,10,PhD,3 completed,4 notable projects,1,No,76,18
+108,Employee108,Customer Service,Specialist,Specialist at Customer Service for 1 years,33858,2577,427,8,Master's,1 completed,4 notable projects,5,Yes,93,18
+109,Employee109,Operations,Manager,Manager at Operations for 2 years,43774,3352,616,0,Master's,5 completed,5 notable projects,1,No,94,23
+110,Employee110,Admin Support,Supervisor,Supervisor at Admin Support for 1 years,41426,2343,658,17,Bachelor's,1 completed,1 notable projects,4,No,73,21
+111,Employee111,Operations,Officer,Officer at Operations for 5 years,34456,2950,837,0,Master's,5 completed,4 notable projects,1,Yes,99,21
+112,Employee112,Admin Support,Manager,Manager at Admin Support for 3 years,44494,2442,659,15,Bachelor's,1 completed,1 notable projects,1,No,77,18
+113,Employee113,Operations,Specialist,Specialist at Operations for 2 years,32799,2554,559,16,PhD,2 completed,3 notable projects,4,Yes,72,19
+114,Employee114,Customer Service,Supervisor,Supervisor at Customer Service for 1 years,49452,3831,639,9,PhD,5 completed,3 notable projects,2,Yes,77,23
+115,Employee115,Customer Service,Analyst,Analyst at Customer Service for 1 years,40742,4700,557,5,PhD,3 completed,3 notable projects,1,Yes,94,22
+116,Employee116,IT Department,Analyst,Analyst at IT Department for 4 years,38482,4341,600,7,PhD,1 completed,1 notable projects,5,No,77,22
+117,Employee117,Finance,Specialist,Specialist at Finance for 4 years,35405,3537,865,16,Master's,4 completed,4 notable projects,0,Yes,99,19
+118,Employee118,Admin Support,Analyst,Analyst at Admin Support for 2 years,36336,3006,414,13,PhD,5 completed,4 notable projects,0,No,100,23
+119,Employee119,Human Resources,Analyst,Analyst at Human Resources for 5 years,31119,4842,803,20,Bachelor's,2 completed,0 notable projects,0,No,72,23
+120,Employee120,Operations,Assistant,Assistant at Operations for 1 years,30948,2993,956,17,Bachelor's,1 completed,3 notable projects,1,Yes,87,18
+121,Employee121,Operations,Manager,Manager at Operations for 5 years,39970,5741,702,12,PhD,1 completed,1 notable projects,4,No,84,21
+122,Employee122,Human Resources,Supervisor,Supervisor at Human Resources for 4 years,31462,3615,541,11,Master's,3 completed,4 notable projects,4,No,77,23
+123,Employee123,IT Department,Supervisor,Supervisor at IT Department for 5 years,32627,4804,897,16,PhD,5 completed,0 notable projects,2,Yes,91,20
+124,Employee124,Human Resources,Specialist,Specialist at Human Resources for 2 years,42926,5891,992,17,PhD,3 completed,3 notable projects,5,Yes,85,21
+125,Employee125,Finance,Manager,Manager at Finance for 2 years,49822,2391,850,14,Master's,1 completed,1 notable projects,0,Yes,84,20
+126,Employee126,Operations,Analyst,Analyst at Operations for 1 years,39009,2133,960,16,PhD,2 completed,1 notable projects,0,No,93,23
+127,Employee127,Customer Service,Coordinator,Coordinator at Customer Service for 5 years,37009,5987,756,7,Bachelor's,5 completed,3 notable projects,5,Yes,99,18
+128,Employee128,Admin Support,Specialist,Specialist at Admin Support for 1 years,38493,2718,430,6,Master's,1 completed,1 notable projects,3,No,93,20
+129,Employee129,Customer Service,Specialist,Specialist at Customer Service for 1 years,44303,5657,672,19,PhD,4 completed,3 notable projects,3,No,83,22
+130,Employee130,Marketing,Assistant,Assistant at Marketing for 1 years,47467,5416,533,13,PhD,2 completed,5 notable projects,1,No,82,21
+131,Employee131,Marketing,Manager,Manager at Marketing for 5 years,48300,3413,540,12,PhD,4 completed,5 notable projects,5,No,87,22
+132,Employee132,Marketing,Analyst,Analyst at Marketing for 3 years,45590,3298,570,10,Bachelor's,2 completed,5 notable projects,5,No,81,19
+133,Employee133,Admin Support,Coordinator,Coordinator at Admin Support for 1 years,39033,5524,768,1,Master's,1 completed,0 notable projects,5,Yes,90,22
+134,Employee134,Marketing,Specialist,Specialist at Marketing for 2 years,36487,2760,606,20,Master's,1 completed,0 notable projects,3,No,94,19
+135,Employee135,Customer Service,Officer,Officer at Customer Service for 5 years,49982,5476,829,8,PhD,2 completed,3 notable projects,0,Yes,95,21
